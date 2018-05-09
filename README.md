@@ -1,2 +1,3 @@
 # week1
-Week 1 repo
+My first repo!
+Contributor: Jozef
